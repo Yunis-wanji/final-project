@@ -6,5 +6,34 @@ form {
     float: right;
     margin-top: 3em;
     margin-right: 20px;
-    padding: 40px;
+    
+}
+ .cityname {
+        color: whitesmoke;
+        text-align: center;
+        padding-top: 94px;
+      }
+.date{
+    color: whitesmoke;
+    font-size: 2em;
+    text-align: center;
+}
+.weather-icon {
+    text-align: center;
+    font-size: 6em;
+    color: whitesmoke;
   }
+  .temp{
+      font-size:40px;
+  }
+  .humidity{
+      font-size: 30px;
+  }
+  .wind{
+      font-size: 27px;
+  }
+  .footer {
+    margin-top: 1em;
+  }
+
+  
